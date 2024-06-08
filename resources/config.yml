@@ -1,0 +1,7 @@
+language: "fr"
+
+languages:
+  en:
+    path: "lang/en.yml"
+  fr:
+    path: "lang/fr.yml"

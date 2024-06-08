@@ -1,0 +1,7 @@
+name: HoneyParty
+main: natof\HoneyParty
+version: 1.0.0
+api: [ 5.11.0 ]
+
+authors:
+  - Natof

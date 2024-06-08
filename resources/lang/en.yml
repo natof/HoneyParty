@@ -1,0 +1,4 @@
+event_already_in_progress: "An event is already in progress."
+event_forced_to_stop: "The event has been successfully forced to stop."
+event_stopped: "The event has been stopped."
+event_started: "The event has been successfully started."
